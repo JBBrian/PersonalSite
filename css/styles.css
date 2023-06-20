@@ -8,13 +8,14 @@ body {
     height: 160px;
 }
 
-.code-img {
+.left-img {
     height: 160px;
     float: left;
     margin-right: 30px;
+    margin-bottom: 20px;
 }
 
-.book-img {
+.right-img {
     height: 150px;
     float: right;
     margin-right: 30px;
@@ -79,7 +80,6 @@ h3 {
     ;
 
 }
-
 
 .bottom-cloud {
     position: absolute;
